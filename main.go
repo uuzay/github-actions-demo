@@ -28,5 +28,5 @@ func functionThatReturnsThree() int {
 	fmt.Printf("I shall return 3 no matter what!\n\n")
 
 	//You only had one job...
-	return 4
+	return 3
 }
